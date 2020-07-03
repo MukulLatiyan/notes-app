@@ -2,9 +2,9 @@
 
 This simple app makes use of command line arguments that you pass while running the main app.js file, which it will handle and then do certain operations.
 
-<b>Format: node app.js args1 --title or --body</b>
+<h3>Format: node app.js args1 --title or --body</h3>
 
-<b> The value of args1 can be :
+<b> The value of args1 can be : </b>
 <ul>
     <li>add</li>
     <li>remove</li>
